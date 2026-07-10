@@ -49,7 +49,7 @@ Notebook, Google Colab üzerinde T4 GPU ile çalıştırılmak üzere hazırlanm
 Melek Aday — Karadeniz Teknik Üniversitesi, Of Teknoloji Fakültesi, Yazılım Mühendisliği
 Danışman: Dr. Öğr. Üyesi Sefa Aras
 
-ORCID: [0009-0008-2053-5420](https://orcid.org/0009-0008-2053-5420)
+
 
 ## Durum
 
