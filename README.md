@@ -53,4 +53,4 @@ ORCID: [0009-0008-2053-5420](https://orcid.org/0009-0008-2053-5420)
 
 ## Durum
 
-🚧 Bu proje aktif olarak geliştirilmektedir — hakem geri bildirimleri doğrultusunda ek deneyler (ikinci transformer modeli, ablasyon tabloları, istatistiksel testler) eklenmektedir.
+🚧 Bu proje aktif olarak geliştirilmektedir 
