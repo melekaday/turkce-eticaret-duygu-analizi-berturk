@@ -76,4 +76,8 @@ Notebook, Google Colab üzerinde T4 GPU ile çalıştırılmak üzere hazırlanm
 Melek Aday — Karadeniz Teknik Üniversitesi, Of Teknoloji Fakültesi, Yazılım Mühendisliği
 Danışman: Dr. Öğr. Üyesi Sefa Aras
 
+## Revision experiments and fine-tuned models
+
+The scripts of all experiments added in the TJMCS article, the stored probabilities of the three final models, and the fitted classical model are in [`revision_experiments/`](revision_experiments). The fine-tuned BERTurk and XLM-RoBERTa models are attached to the release [v1.0-tjmcs](https://github.com/melekaday/turkce-eticaret-duygu-analizi-berturk/releases).
+
 
