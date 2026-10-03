@@ -1,0 +1,12 @@
+# tested versions in comments, Python 3.12
+torch>=2.1            # 2.6.0+cu124
+transformers>=4.41    # 5.13.1
+accelerate>=0.26      # 1.14.0, needed by stageF_train4.py only
+datasets>=2.18        # 5.0.0
+scikit-learn>=1.6     # 1.9.0
+statsmodels>=0.14     # 0.14.6
+numpy>=1.26           # 1.26.4
+scipy>=1.11           # 1.17.1
+pandas>=2.0           # 2.2.2
+pyarrow>=14           # 25.0.0
+joblib>=1.3           # 1.5.3
